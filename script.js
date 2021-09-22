@@ -24,3 +24,16 @@ randomNumber *= 3;
 randomNumber = Math.ceil(randomNumber)
 console.log(randomNumber);
 
+// BONUS TERRITORY
+// 6
+let letItGo = " Let It Go!"
+console.log(letItGo.toUpperCase().repeat(2));
+// 7a
+let reindeers = "Reindeers are better than people."
+console.log(reindeers);
+// 7b
+reindeers = reindeers.replace(/ /g, "_");
+console.log(reindeers);
+// 8
+console.log(Math.sqrt(2));
+// 9
